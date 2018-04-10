@@ -1,0 +1,86 @@
+		
+
+		/*stylesheet 1*/
+
+
+
+
+
+
+		.container {
+			margin-top: 30px;
+		}
+		.bookflap {
+			text-align: justify;
+		}
+		#books {
+			padding-top: 100px;
+		}
+		.row {
+			padding: 10px;
+		}
+		.row a {
+			text-decoration: none;
+		}
+		.goodreads a {
+			text-decoration: none;
+		}
+		a:hover {
+			color: #33cc33
+		}
+		.goodreads {
+			background-color: #ffffff;
+			height: auto;
+			padding: 10px;
+			text-align: center;
+		}
+		.goodreads:hover {
+			background-color: #262626;
+		}
+		#booktitle1:hover {
+			background-color: #4ddbff;
+			padding-left: 1px;
+		}
+		#booktitle2:hover {
+			background-color: #ff751a;
+			padding-left: 1px;
+		}
+		#booktitle3:hover {
+			background-color: #cc9900;
+			padding-left: 1px;
+		}
+		#booktitle4:hover {
+			background-color: #e6b3b3;
+			padding-left: 1px;
+		}
+		#booktitle5:hover {
+			background-color: #1a3300;
+			padding-left: 1px;
+			color: #ffffff;
+		}
+		img:hover {
+			transition: all 1s ease;
+			transform: scale(1.04);
+		}
+		#shop {
+			padding: 20px;
+			background-color: #2eb82e;
+		}
+		#shop:hover {
+			color: white;
+		}
+		.btn {
+			position: fixed;
+			bottom: 2em;
+			right: 2em;
+			text-decoration: none;
+			font-size: 12px;
+			background-color: rgba(0, 0, 0, 0.3);
+		}
+		#footer {
+			background-color: #262626;
+			color: #ffffff;
+		}
+		.readonline {
+			text-decoration: none;
+		}

@@ -1,0 +1,43 @@
+    
+
+  /*stylesheet 3*/
+
+
+
+
+
+
+    .container-fluid {
+      width: 750px;
+    }
+    .container {
+      margin-top: 30px;
+    }
+    .story {
+      text-align: justify;
+    }
+    .customnote {
+      background-color: #efeff5;
+      height: auto;
+      padding: 10px;
+    }
+    .btn {
+      position: fixed;
+      bottom: 2em;
+      right: 2em;
+      text-decoration: none;
+      font-size: 12px;
+      background-color: rgba(0, 0, 0, 0.3);
+    }
+    a:hover {
+      color: #33cc33
+    }
+    img:hover {
+      transition: all 1s ease;
+      transform: scale(1.04);
+    }
+    #footer {
+      background-color: #262626;
+      color: #ffffff;
+      text-align: center;
+    }
